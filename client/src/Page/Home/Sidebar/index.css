@@ -1,0 +1,34 @@
+.SideBar {
+  margin: 0px;
+  background-color: rgb(14, 31, 56);
+  overflow: auto;
+  width: 15%;
+}
+.SideBar > a {
+  display: block;
+  color: rgb(255, 255, 255);
+  padding: 20px;
+  font-size: medium;
+  text-decoration: none;
+}
+.SideBar > p {
+  font-size: 1.5rem;
+  display: block;
+  color: rgb(255, 255, 255);
+  padding: 20px;
+  text-decoration: none;
+}
+.SideBar a:hover {
+  background-color: rgb(116, 134, 161);
+}
+.SideBar span {
+  display: block;
+  color: rgb(255, 255, 255);
+  padding: 20px;
+  font-size: medium;
+  cursor: pointer;
+}
+
+hr {
+  background-color: rgb(228, 224, 224);
+}

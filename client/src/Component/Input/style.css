@@ -1,0 +1,11 @@
+.inputStyle {
+  margin-left: 12%;
+  width: 315px;
+  height: 40px;
+  margin-bottom: 15px;
+  border: 1px solid rgb(153, 152, 152);
+  border-radius: 5px;
+  padding-left: 10px;
+  font-size: medium;
+  font-weight: inherit;
+}
